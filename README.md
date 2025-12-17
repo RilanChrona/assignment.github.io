@@ -34,7 +34,8 @@
             <p>Nowadays, the widespread use of Artificial intelligence has made creating highly realistic fake videos and audio alarmingly simple. It is a good development of technique, but when it is used to fabricate false statements by political figures or produce video and sounds to execute complex scams, it is harmful for us. When misinformation becomes "reality" and spreads virally on social networks, bad for the very foundation of societal trust.</p>
             <h3>Examples: </h3>
             <p>Can you find the difference between AI and human-made?</p>
-            < img src="屏幕截图 2025-12-18 024332.png" alt="This is the real chrismas tree">
+            <img src="屏幕截图 2025-12-18 024332.png" width="400">
+            <img src="屏幕截图 2025-12-18 024423.png" width="400">
             <br>
             <h2>Productions Counterfeition: Unfair Competition Between Us</h2>
             <p>The original aim of Artificial intelligence was to provide people with more entertainment and help more people experience the joy of creating videos and achieve their imaginations. But when the AI is used on academic articles or electronic goods sold, it is disrespected and unfair for the people working by themselves, readers and customers. People may also worry about whether the article they read is true and if they will be affected by those cheating competitors.</p>
