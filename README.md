@@ -2,8 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Communication Technology Assignment</title>
-    <link rel="stylesheet" href="assignment1.css">
 </head>
 <body>
     <header>
